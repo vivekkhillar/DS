@@ -1,1 +1,7 @@
+# Ignore virtual environments
+venv/
 .Langchain/venv/
+
+# Ignore environment files
+.Langchain/.env
+.env
