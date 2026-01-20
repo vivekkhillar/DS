@@ -1,7 +1,7 @@
-# Ignore virtual environments
+# Python virtual environment
 venv/
 .Langchain/venv/
 
-# Ignore environment files
-.Langchain/.env
+# Environment variables
 .env
+.Langchain/.env
