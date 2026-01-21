@@ -3,5 +3,5 @@ venv/
 .Langchain/venv/
 
 # Environment variables
-# .env
-# .Langchain/.env
+.env
+.Langchain/.env
