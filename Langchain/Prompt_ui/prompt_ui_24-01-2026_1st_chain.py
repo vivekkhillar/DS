@@ -39,4 +39,5 @@ if st.button('Summarize'):
         'length_input': length_input
     })
     st.write("Summary:")
+    
     st.write(response.content.split("<|assistant|>")[-1])
